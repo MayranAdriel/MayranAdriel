@@ -1,4 +1,4 @@
-# Hi, I'am Mayran Adriel!:wave:
+# Hi, I'am Mayran Adriel!👋
 ### Sobre mim
 * :computer:Análise e Desenvolvimento de Sistemas - IFPB
 * Estudando C, Python e Java
