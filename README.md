@@ -10,7 +10,9 @@
 
 <h3 align="center">My skills:</h3>
 
+<div align="center">
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,c,git,github,py)](https://skillicons.dev)
+</div>
 
 <h3 align="center">Find me On:</h3>
 <div align="center">
