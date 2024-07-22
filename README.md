@@ -1,6 +1,6 @@
  <h1 align="center">Hello World!💻</h1>
  <h2 align="center">I'am Mayran Adriel</h2>
- <h3 align="center">Currently more front-end, but aiming for back-end</h3>
+ <h3 align="center">Currently more FullStack</h3>
 
 
  <div align="center">
